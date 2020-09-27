@@ -1,0 +1,3 @@
+[submodule "hello_cli"]
+	path = hello_cli
+	url = git://github.com/FakenMaster/hello_cli.git
