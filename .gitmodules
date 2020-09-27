@@ -1,0 +1,3 @@
+[submodule "github_graphql_client"]
+	path = github_graphql_client
+	url = git://github.com/FakenMaster/github_graphql_client.git
